@@ -1,6 +1,4 @@
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206dGtFRkoySVBzWUcxVi95S3dXLzgxQT09@121.4.82.73:4949?#AS3.T1
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206dGtFRkoySVBzWUcxVi95S3dXLzgxQT09@121.4.82.73:4999?#AS3.T2
-vless://2bf6a978-68ce-42f6-aea5-2569db15f2ba@199.15.78.13:10000?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.aia.com.hk&fp=chrome&pbk=DCUmZn2Gu5dUuolstK6BpbD1vWtltXzFESKRlYT4Bnc&sid=88&type=tcp&headerType=none#HKCO
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206ZDNtdzlVTEdXb29VQmlBTER6YnB6UT09@121.4.82.73:1199?#HKPO
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206ZDNtdzlVTEdXb29VQmlBTER6YnB6UT09@121.4.82.73:1199?#HKP
+vless://2bf6a978-68ce-42f6-aea5-2569db15f2ba@199.15.78.13:10000?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.aia.com.hk&fp=chrome&pbk=DCUmZn2Gu5dUuolstK6BpbD1vWtltXzFESKRlYT4Bnc&sid=88&type=tcp&headerType=none#HKT
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206U0ZsQ3pGRUthNmR6TEhFbUxQYmxNZz09@121.4.82.73:3333?#Nano
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlVTQSIsDQogICJhZGQiOiAic2Fhcy5zaW4uZmFuIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjc3NDAyOTBkLTk0OGUtNGI5My1iMDJhLTRmOTczODRkNzIxOSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAicnl6ZW4uY25hYmMudGsiLA0KICAicGF0aCI6ICIvZGU5OTA0IiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogInJ5emVuLmNuYWJjLnRrIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiIsDQogICJpbnNlY3VyZSI6ICIwIg0KfQ==
